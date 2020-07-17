@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "classpath:Features", // featrues tells Cucumber options where features file is located
 		glue = { "stepDefinitions" }, // glue tells cucumber options where Step Definitions are located
-		tags = {"@removeFromShoppingCartTest"}, //provide link between feature file and step definitions file. 
+		tags = {"@registerTest"}, //provide link between feature file and step definitions file. 
 		dryRun = false, // dry run if sets to false checks if all steps in feature files has coresponding mehtods in stepdefinitons file.
 		monochrome = true, // if set to true, makes the console output readable.
 		strict = false, // if set to false will fail if there are pending undefined steps.
