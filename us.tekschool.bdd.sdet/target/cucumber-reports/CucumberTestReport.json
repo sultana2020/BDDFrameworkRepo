@@ -1,0 +1,203 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1912069100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on TEST Environment page",
+            "match": {
+              "location": "loginStepDefiniton.user_is_on_TEST_Environment_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8406503200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks()"
+            }
+          }
+        ],
+        "line": 50,
+        "name": "Remove Item from Shopping Cart",
+        "description": "",
+        "id": "test-environment;remove-item-from-shopping-cart",
+        "after": [
+          {
+            "result": {
+              "duration": 764217700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1241119300,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "User click on Phones \u0026 PDAs",
+            "match": {
+              "location": "AddToShoppingCartStepDefinition.user_click_on_Phones_PDAs()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1821874100,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "User click on iphone",
+            "match": {
+              "location": "AddToShoppingCartStepDefinition.user_click_on_iphone()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 519428200,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "User click on Add to Cart",
+            "match": {
+              "location": "AddToShoppingCartStepDefinition.user_click_on_Add_to_Cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 536341400,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "User should see message \u0027Success: You have added iPhone to your shopping cart!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Success: You have added iPhone to your shopping cart!",
+                  "offset": 25
+                }
+              ],
+              "location": "AddToShoppingCartStepDefinition.user_should_see_message_Success_You_have_added_iPhone_to_your_shopping_cart(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 940097200,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "User click on Shopping Cart",
+            "match": {
+              "location": "AddToShoppingCartStepDefinition.user_click_on_Shopping_Cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 508633500,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "User should see the iphone added in the Shopping Cart",
+            "match": {
+              "location": "AddToShoppingCartStepDefinition.user_should_see_the_iphone_added_in_the_Shopping_Cart()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 848671700,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "User click on Shopping Cart",
+            "match": {
+              "location": "AddToShoppingCartStepDefinition.user_click_on_Shopping_Cart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18804000,
+              "status": "passed"
+            },
+            "line": 58,
+            "name": "User should see item in shopping cart",
+            "match": {
+              "location": "RemoveFShoppingStepDefin.user_should_see_item_in_shopping_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3534250100,
+              "status": "passed"
+            },
+            "line": 59,
+            "name": "User click on Red X button",
+            "match": {
+              "location": "RemoveFShoppingStepDefin.user_click_on_Red_X_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 454117200,
+              "status": "passed"
+            },
+            "line": 60,
+            "name": "User should should see message \u0027Your shopping cart is empty!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Your shopping cart is empty!",
+                  "offset": 32
+                }
+              ],
+              "location": "RemoveFShoppingStepDefin.user_should_should_see_message_Your_shopping_cart_is_empty(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 49,
+            "name": "@removeFromShoppingCartTest"
+          }
+        ]
+      }
+    ],
+    "name": "Test Environment",
+    "description": "",
+    "id": "test-environment",
+    "keyword": "Feature",
+    "uri": "Features/Login.feature"
+  }
+]

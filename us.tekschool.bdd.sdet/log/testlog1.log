@@ -1,0 +1,162 @@
+2020-06-23 20:01:26,623 [main] INFO Logger_File - click on Register
+2020-06-23 20:01:28,150 [main] INFO Logger_File - Register Form was filled successfully
+2020-06-23 20:01:28,296 [main] INFO Logger_File - yes to subscribe is selected
+2020-06-23 20:01:28,459 [main] INFO Logger_File - privacy policy is selected
+2020-06-23 20:01:29,544 [main] INFO Logger_File - Continue Button clicked
+2020-06-23 20:04:03,766 [main] INFO Logger_File - click on Register
+2020-06-23 20:04:05,203 [main] INFO Logger_File - Register Form was filled successfully
+2020-06-23 20:04:05,374 [main] INFO Logger_File - yes to subscribe is selected
+2020-06-23 20:04:05,549 [main] INFO Logger_File - privacy policy is selected
+2020-06-23 20:04:06,744 [main] INFO Logger_File - Continue Button clicked
+2020-06-23 20:04:11,814 [main] INFO Logger_File - Assertion passed
+2020-06-23 20:37:57,923 [main] INFO Logger_File - click on Register
+2020-06-23 20:38:08,923 [main] INFO Logger_File - Register Form was filled successfully
+2020-06-23 20:38:09,063 [main] INFO Logger_File - yes to subscribe is selected
+2020-06-23 20:38:09,212 [main] INFO Logger_File - privacy policy is selected
+2020-06-23 20:38:10,422 [main] INFO Logger_File - Continue Button clicked
+2020-06-23 20:38:15,492 [main] INFO Logger_File - Assertion passed
+2020-06-23 22:00:30,149 [main] INFO Logger_File - click on Register
+2020-06-23 22:00:31,679 [main] INFO Logger_File - Register Form was filled successfully
+2020-06-23 22:00:31,850 [main] INFO Logger_File - yes to subscribe is selected
+2020-06-23 22:00:32,022 [main] INFO Logger_File - privacy policy is selected
+2020-06-23 22:00:33,234 [main] INFO Logger_File - Continue Button clicked
+2020-06-23 22:00:38,313 [main] INFO Logger_File - Assertion passed
+2020-06-28 22:50:01,982 [main] INFO Logger_File - click on phones & PDAs
+2020-06-28 22:50:03,868 [main] INFO Logger_File - click on iphone
+2020-06-28 22:50:04,470 [main] INFO Logger_File - click on Add To Cart
+2020-06-28 23:00:29,342 [main] INFO Logger_File - click on phones & PDAs
+2020-06-28 23:00:31,147 [main] INFO Logger_File - click on iphone
+2020-06-28 23:00:31,622 [main] INFO Logger_File - click on Add To Cart
+2020-06-28 23:10:06,030 [main] INFO Logger_File - click on phones & PDAs
+2020-06-28 23:10:07,773 [main] INFO Logger_File - click on iphone
+2020-06-28 23:10:08,269 [main] INFO Logger_File - click on Add To Cart
+2020-06-28 23:19:39,336 [main] INFO Logger_File - click on phones & PDAs
+2020-06-28 23:19:41,045 [main] INFO Logger_File - click on iphone
+2020-06-28 23:19:41,550 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 08:14:54,618 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 08:14:56,736 [main] INFO Logger_File - click on iphone
+2020-06-29 08:14:57,431 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 08:28:52,248 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 08:28:54,248 [main] INFO Logger_File - click on iphone
+2020-06-29 08:28:54,798 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 08:31:20,100 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 08:31:22,003 [main] INFO Logger_File - click on iphone
+2020-06-29 08:31:22,589 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 08:35:38,101 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 08:35:40,058 [main] INFO Logger_File - click on iphone
+2020-06-29 08:35:40,592 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 08:47:34,355 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 08:47:36,412 [main] INFO Logger_File - click on iphone
+2020-06-29 08:47:36,959 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 10:44:19,846 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 10:44:21,985 [main] INFO Logger_File - click on iphone
+2020-06-29 10:44:22,615 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 11:34:05,929 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 11:34:08,505 [main] INFO Logger_File - click on iphone
+2020-06-29 11:34:09,107 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 16:17:23,325 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 16:41:19,791 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 16:51:21,099 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 16:54:30,942 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 16:57:45,433 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 17:07:17,957 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 17:09:45,012 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 17:19:33,744 [main] INFO Logger_File - click on Shopping Cart
+2020-06-29 17:33:57,711 [main] INFO Logger_File - click on phones & PDAs
+2020-06-29 17:33:59,860 [main] INFO Logger_File - click on iphone
+2020-06-29 17:34:00,501 [main] INFO Logger_File - click on Add To Cart
+2020-06-29 17:34:24,254 [main] INFO Logger_File - click on Shopping Cart
+2020-06-30 10:17:16,360 [main] INFO Logger_File - click on Shopping Cart
+2020-06-30 10:21:58,723 [main] INFO Logger_File - click on Shopping Cart
+2020-06-30 10:33:40,735 [main] INFO Logger_File - click on Shopping Cart
+2020-06-30 10:40:00,589 [main] INFO Logger_File - click on Shopping Cart
+2020-06-30 10:58:50,980 [main] INFO Logger_File - click on Shopping Cart
+2020-06-30 11:01:41,060 [main] INFO Logger_File - click on phones & PDAs
+2020-06-30 11:01:42,708 [main] INFO Logger_File - click on iphone
+2020-06-30 11:01:43,236 [main] INFO Logger_File - click on Add To Cart
+2020-06-30 11:29:06,620 [main] INFO Logger_File - click on phones & PDAs
+2020-06-30 11:29:08,409 [main] INFO Logger_File - click on iphone
+2020-06-30 11:29:09,013 [main] INFO Logger_File - click on Add To Cart
+2020-06-30 11:30:49,472 [main] INFO Logger_File - click on phones & PDAs
+2020-06-30 11:30:51,469 [main] INFO Logger_File - click on iphone
+2020-06-30 11:30:52,005 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 06:24:52,684 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 06:36:26,293 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 06:36:28,182 [main] INFO Logger_File - click on iphone
+2020-07-01 06:36:28,713 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 06:36:38,295 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 07:12:45,537 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 07:12:47,425 [main] INFO Logger_File - click on iphone
+2020-07-01 07:12:48,065 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 07:12:57,433 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 07:32:00,402 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 07:32:02,354 [main] INFO Logger_File - click on iphone
+2020-07-01 07:32:02,911 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 07:32:12,285 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 12:37:26,250 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:37:28,083 [main] INFO Logger_File - click on iphone
+2020-07-01 12:37:28,831 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:37:38,434 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 12:42:41,542 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:42:43,594 [main] INFO Logger_File - click on iphone
+2020-07-01 12:42:44,160 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:43:36,867 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:43:38,686 [main] INFO Logger_File - click on iphone
+2020-07-01 12:43:39,243 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:44:59,509 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:45:01,296 [main] INFO Logger_File - click on iphone
+2020-07-01 12:45:01,967 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:46:40,437 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:46:42,361 [main] INFO Logger_File - click on iphone
+2020-07-01 12:46:42,968 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:48:43,605 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:48:45,478 [main] INFO Logger_File - click on iphone
+2020-07-01 12:48:46,105 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:48:46,648 [main] INFO Logger_File - Assertion passed
+2020-07-01 12:48:47,561 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 12:52:58,609 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:53:00,459 [main] INFO Logger_File - click on iphone
+2020-07-01 12:53:01,111 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:53:01,648 [main] INFO Logger_File - Assertion passed
+2020-07-01 12:53:02,565 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 12:53:03,082 [main] INFO Logger_File - Confirm Item is Added in Shopping Cart
+2020-07-01 12:55:06,966 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:55:08,838 [main] INFO Logger_File - click on iphone
+2020-07-01 12:55:09,504 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:57:47,266 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 12:57:49,260 [main] INFO Logger_File - click on iphone
+2020-07-01 12:57:49,873 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 12:57:50,482 [main] INFO Logger_File - Assertion passed
+2020-07-01 12:57:51,376 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 12:57:51,890 [main] INFO Logger_File - Confirm Item is Added in Shopping Cart
+2020-07-01 13:00:40,045 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 13:00:42,031 [main] INFO Logger_File - click on iphone
+2020-07-01 13:00:42,615 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 13:00:43,191 [main] INFO Logger_File - Assertion passed
+2020-07-01 13:00:44,211 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 13:00:44,732 [main] INFO Logger_File - Confirm Item is Added in Shopping Cart
+2020-07-01 13:01:58,545 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 13:03:47,005 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 13:03:48,684 [main] INFO Logger_File - click on iphone
+2020-07-01 13:03:49,361 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 13:03:50,002 [main] INFO Logger_File - Assertion passed
+2020-07-01 13:03:50,981 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 13:03:51,547 [main] INFO Logger_File - Confirm Item is Added in Shopping Cart
+2020-07-01 13:03:52,467 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 13:03:56,510 [main] INFO Logger_File - Assertion passed
+2020-07-01 16:24:10,581 [main] INFO Logger_File - click on phones & PDAs
+2020-07-01 16:24:12,774 [main] INFO Logger_File - click on iphone
+2020-07-01 16:24:13,406 [main] INFO Logger_File - click on Add To Cart
+2020-07-01 16:24:14,079 [main] INFO Logger_File - Assertion passed
+2020-07-01 16:24:15,163 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 16:24:15,768 [main] INFO Logger_File - Confirm Item is Added in Shopping Cart
+2020-07-01 16:24:16,687 [main] INFO Logger_File - click on Shopping Cart
+2020-07-01 16:24:20,908 [main] INFO Logger_File - Assertion passed
+2020-07-04 22:51:11,777 [main] INFO Logger_File - click on phones & PDAs
+2020-07-04 22:51:13,798 [main] INFO Logger_File - click on iphone
+2020-07-04 22:51:14,317 [main] INFO Logger_File - click on Add To Cart
+2020-07-04 22:51:14,890 [main] INFO Logger_File - Assertion passed
+2020-07-04 22:51:15,806 [main] INFO Logger_File - click on Shopping Cart
+2020-07-04 22:51:16,367 [main] INFO Logger_File - Confirm Item is Added in Shopping Cart
+2020-07-04 22:51:17,200 [main] INFO Logger_File - click on Shopping Cart
+2020-07-04 22:51:21,247 [main] INFO Logger_File - Assertion passed
