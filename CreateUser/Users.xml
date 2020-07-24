@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:resource name="Users" path="/jpa/users" id="81689a44-0558-44d5-a404-e2af8ede02c3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="81689a44-0558-44d5-a404-e2af8ede02c3fileName">Users</con:setting></con:settings><con:parameters/><con:method name="Users" id="a106af0f-0b3f-4a93-ad89-3eeabc34f67c" method="POST"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:user="http://tekschool-test-env.herokuapp.com/jpa/users">user:Response</con:element></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:representation type="FAULT"><con:mediaType>application/json</con:mediaType><con:status>400</con:status><con:params/><con:element xmlns:user="http://tekschool-test-env.herokuapp.com/jpa/users">user:Fault</con:element></con:representation><con:request name="Request 1" id="0030df7a-8812-4020-968a-20999352e8fe" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://tekschool-test-env.herokuapp.com</con:endpoint><con:request>{
+  "birthDate": "1980-01-15T20:43:33.632Z",
+  "employmentStatus": "Retired",
+  "firstName": "Jakkkkkkkkck",
+  "gender": "Male",
+  "languagePref": "English",
+  "lastName": "Bond",
+  "maritalStatus": "Single",
+  "middleName": "James",
+  "suffix": "Senior",
+  "title": "Mr."
+}</con:request><con:originalUri>http://tekschool-test-env.herokuapp.com/jpa/users</con:originalUri><con:credentials><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:request></con:method></con:resource>
