@@ -1,1 +1,11 @@
+GetUserByParam
+CreateSecondaryUserbyId
+DeleteUserByHeader
+DeleteSecondaryUserbyId
+GetAllUsers
+GetUserById
+GetSecondaryUserById
+DeleteUserById
+DeleteUserByParam
+GetUserByHeader
 CreateUser

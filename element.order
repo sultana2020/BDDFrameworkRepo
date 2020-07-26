@@ -1,4 +1,3 @@
-CreateUser
 GetUserByParam
 CreateSecondaryUserbyId
 DeleteUserByHeader
@@ -9,4 +8,6 @@ GetSecondaryUserById
 DeleteUserById
 DeleteUserByParam
 GetUserByHeader
+CreateUser
 End2End-Automation
+EndToEnd-Automation
